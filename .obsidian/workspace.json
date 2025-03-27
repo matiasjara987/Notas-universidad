@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLASE 2.md",
+                "file": "Preaparación y evualuación de proyectos/CLASE 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLASE 2"
+              "title": "CLASE 1"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,10 +169,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48c94ec2e4000897",
+  "active": "3d299da55712213f",
   "lastOpenFiles": [
-    "CLASE 1.md",
-    "CLASE 2.md",
-    "Preaparación y evualación de proyectos"
+    "Práctica profesional",
+    "Optimización de sistemas",
+    "Minería de datos",
+    "Ciberseguridad",
+    "Taller de tecnologías emergentes",
+    "Preaparación y evualuación de proyectos/CLASE 2.md",
+    "Preaparación y evualuación de proyectos/CLASE 1.md",
+    "Preaparación y evualuación de proyectos"
   ]
 }
