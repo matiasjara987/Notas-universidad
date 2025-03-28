@@ -3,6 +3,7 @@ Asignatura: Optimización de sistemas #opt-sistemas
 Docente: Enrique Pastene Aceituno
 Correo:  epastene@docente.ubo.cl
 
+-----
 ## Planificación del curso
  - 3 Módulos 
 	- Fundamentos de la Optimización
