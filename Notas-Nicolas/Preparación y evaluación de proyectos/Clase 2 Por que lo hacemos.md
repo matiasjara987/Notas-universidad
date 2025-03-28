@@ -46,7 +46,7 @@ Sí. Aunque un proyecto sea enfocado a lo social y cubra una necesidad, esto no 
 - La justificación no debe tener más de 4 líneas.
 - Establecer el público objetivo o destinatarios.
 - Crear una descripción donde se establezca el método para ejecutar este proyecto.
-- Definir cuantas metas o en cuantos procesos se va a desarrollar esta idea. No más de 3 líneas.
+- Definir cuantas metas o en cuantos procesos se va a desarrollar esta idea. No más de 3 líneas.|
 - Establecer que recursos necesitamos para que funcione el proyecto.
 - Establecer el presupuesto. Lo que nos imaginamos que cuesta el proyecto.
 - Indicar en cuánto tiempo lo vamos a desarrollar.

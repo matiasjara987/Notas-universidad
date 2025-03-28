@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matias-Matias/Minería de datos/Clase 1.md",
+                "file": "Notas-Nicolas/Preparación y evaluación de proyectos/Clase 2 Por que lo hacemos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 1"
+              "title": "Clase 2 Por que lo hacemos"
             }
           },
           {
@@ -109,7 +109,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -225,32 +225,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "0f8377c5bd270875",
   "lastOpenFiles": [
-    "Notas-Nicolas/Minería de Datos/Minería de Datos Primera Clase.md",
+    "Matias-Matias/Preparación y evaluación de proyectos/CLASE 2.md",
+    "Matias-Matias/Preparación y evaluación de proyectos/CLASE 1.md",
+    "Matias-Matias/Optimización de sistemas/Clase 1 Caso Práctico.md",
+    "Matias-Matias/Optimización de sistemas/src/Pasted image 20250328000140.png",
+    "Matias-Matias/Optimización de sistemas/src/Pasted image 20250327235941.png",
+    "Matias-Matias/Optimización de sistemas/src/Pasted image 20250327235926.png",
+    "Matias-Matias/Optimización de sistemas/src/Pasted image 20250327232651.png",
+    "Matias-Matias/Optimización de sistemas/Clase 1.md",
+    "Matias-Matias/Ciberseguridad/Clase 1.md",
     "Matias-Matias/Minería de datos/Clase 1.md",
+    "Notas-Nicolas/Minería de Datos/Minería de Datos Primera Clase.md",
     "Matias-Matias/Minería de datos/src/Pasted image 20250328004447.png",
     "Notas-Nicolas/Recursos/Screenshot 2025-03-21 at 14.30.58.png",
     "Notas-Nicolas/Recursos/Screenshot 2025-03-21 at 13.45.37.png",
     "Notas-Nicolas/Screenshot 2025-03-21 at 16.28.59.png",
     "Notas-Nicolas/Screenshot 2025-03-21 at 16.20.28.png",
     "Matias-Matias/Minería de datos/src",
-    "Matias-Matias/Ciberseguridad/Clase 1.md",
     "Notas-Nicolas/Ciberseguridad/Ciberseguridad Primera clase.md",
-    "Matias-Matias/Optimización de sistemas/Clase 1.md",
     "Matias-Matias",
     "Nueva carpeta",
     "Notas-Nicolas/Recursos/Screenshot 2025-03-21 at 14.48.46.png",
-    "Notas-Nicolas/Recursos/Screenshot 2025-03-21 at 14.31.27.png",
     "Notas-Nicolas/Recursos",
     "Notas-Nicolas/Preparación y evaluación de proyectos/Prep. y eval. Proyectos Primera clase.md",
     "Notas-Nicolas/Preparación y evaluación de proyectos/Clase 2 Por que lo hacemos.md",
@@ -263,10 +269,7 @@
     "Ciberseguridad/Clase 1.md",
     "Optimización de sistemas/Clase 1.md",
     "Optimización de sistemas/Clase 1 Caso Práctico.md",
-    "Optimización de sistemas/src/Pasted image 20250328000140.png",
     "Optimización de sistemas/src",
-    "Optimización de sistemas/src/Pasted image 20250327235926.png",
-    "Optimización de sistemas/src/Pasted image 20250327232651.png",
     "Preparación y evaluación de proyectos/CLASE 2.md",
     "Preparación y evaluación de proyectos/CLASE 1.md",
     "Prepaparación y evaluación de proyectos/CLASE 2.md",
