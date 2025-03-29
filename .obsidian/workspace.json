@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d7416d5ae55b34cf",
+        "id": "8bc5ae0d6f1b2d51",
         "type": "tabs",
         "children": [
           {
-            "id": "5726be77e034fc90",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Notas-Nicolas/Screenshot 2025-03-21 at 16.20.28.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-03-21 at 16.20.28"
-            }
-          },
-          {
-            "id": "e9aa7d445d9c2175",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Notas-Nicolas/Screenshot 2025-03-21 at 16.28.59.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-03-21 at 16.28.59"
-            }
-          },
-          {
-            "id": "0f8377c5bd270875",
+            "id": "ced45f2ed96dd1e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas-Nicolas/Preparación y evaluación de proyectos/Clase 2 Por que lo hacemos.md",
+                "file": "Matias-Matias/Optimización de sistemas/Clase 2 Problema Tipo Prueba.md",
                 "mode": "source",
                 "source": false
               },
@@ -85,8 +61,7 @@
               "title": "Clase 1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Link-google-colab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,21 +182,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preparación y evaluación de Proyectos.md",
+                "file": "Matias-Matias/Optimización de sistemas/Clase 2 Problema Tipo Prueba.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Preparación y evaluación de Proyectos"
+              "title": "Outline of Clase 2 Problema Tipo Prueba"
+            }
+          },
+          {
+            "id": "ee5ddd78edf506e7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,29 +219,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f8377c5bd270875",
+  "active": "3d299da55712213f",
   "lastOpenFiles": [
-    "Matias-Matias/Preparación y evaluación de proyectos/CLASE 2.md",
-    "Matias-Matias/Preparación y evaluación de proyectos/CLASE 1.md",
-    "Matias-Matias/Optimización de sistemas/Clase 1 Caso Práctico.md",
-    "Matias-Matias/Optimización de sistemas/src/Pasted image 20250328000140.png",
-    "Matias-Matias/Optimización de sistemas/src/Pasted image 20250327235941.png",
-    "Matias-Matias/Optimización de sistemas/src/Pasted image 20250327235926.png",
-    "Matias-Matias/Optimización de sistemas/src/Pasted image 20250327232651.png",
-    "Matias-Matias/Optimización de sistemas/Clase 1.md",
-    "Matias-Matias/Ciberseguridad/Clase 1.md",
+
+    "Matias-Matias/Optimización de sistemas/Documents",
+    "Matias-Matias/Optimización de sistemas/Documents/Desarrollo-clase2-ejercicio-TipoPrueba.pdf",
+    "Matias-Matias/Minería de datos/Clase 2.md",
+    "Matias-Matias/Minería de datos/Clase 2 Caso Práctico.md",
+    "Matias-Matias/Minería de datos/1 Evaluaciones.md",
+    "Matias-Matias/Optimización de sistemas/Clase 2 Problema Tipo Prueba.md",
+    "Matias-Matias/Optimización de sistemas/Clase 2.md",
+    "Matias-Matias/Minería de datos/src/Pasted image 20250329110703.png",
+    "Matias-Matias/Minería de datos/src/Pasted image 20250329101948.png",
+    "Matias-Matias/Minería de datos/src/Pasted image 20250329102311.png",
+    "Matias-Matias/Minería de datos/src/Pasted image 20250329102601.png",
+    "Matias-Matias/Minería de datos/src/Pasted image 20250329102213.png",
+    "Matias-Matias/Minería de datos/src/Pasted image 20250329102011.png",
+    "Matias-Matias/Minería de datos/src/Pasted image 20250329101954.png",
+    "Link-google-colab.md",
     "Matias-Matias/Minería de datos/Clase 1.md",
-    "Notas-Nicolas/Minería de Datos/Minería de Datos Primera Clase.md",
-    "Matias-Matias/Minería de datos/src/Pasted image 20250328004447.png",
-    "Notas-Nicolas/Recursos/Screenshot 2025-03-21 at 14.30.58.png",
-    "Notas-Nicolas/Recursos/Screenshot 2025-03-21 at 13.45.37.png",
     "Notas-Nicolas/Screenshot 2025-03-21 at 16.28.59.png",
-    "Notas-Nicolas/Screenshot 2025-03-21 at 16.20.28.png",
+    "Matias-Matias/Minería de datos/src/Pasted image 20250328004447.png",
+    "Matias-Matias/Minería de datos/src/Cross-industry-standard-img.png",
+    "Matias-Matias/Ciberseguridad/Clase 2.md",
+    "Matias-Matias/Optimización de sistemas/Clase 1.md",
+    "Notas-Nicolas/Minería de Datos/Minería de Datos Primera Clase.md",
     "Matias-Matias/Minería de datos/src",
     "Notas-Nicolas/Ciberseguridad/Ciberseguridad Primera clase.md",
     "Matias-Matias",
     "Nueva carpeta",
-    "Notas-Nicolas/Recursos/Screenshot 2025-03-21 at 14.48.46.png",
     "Notas-Nicolas/Recursos",
     "Notas-Nicolas/Preparación y evaluación de proyectos/Prep. y eval. Proyectos Primera clase.md",
     "Notas-Nicolas/Preparación y evaluación de proyectos/Clase 2 Por que lo hacemos.md",
@@ -269,16 +260,12 @@
     "Ciberseguridad/Clase 1.md",
     "Optimización de sistemas/Clase 1.md",
     "Optimización de sistemas/Clase 1 Caso Práctico.md",
-    "Optimización de sistemas/src",
     "Preparación y evaluación de proyectos/CLASE 2.md",
     "Preparación y evaluación de proyectos/CLASE 1.md",
     "Prepaparación y evaluación de proyectos/CLASE 2.md",
     "Prepaparación y evaluación de proyectos/CLASE 1.md",
     "Prepaparación y evualuación de proyectos/CLASE 2.md",
     "Prepaparación y evualuación de proyectos/CLASE 1.md",
-    "CLASE 2.md",
-    "CLASE 1.md",
-    "Preaparación y evualuación de proyectos/CLASE 2.md",
-    "Preaparación y evualuación de proyectos/CLASE 1.md"
+    "CLASE 2.md"
   ]
 }
