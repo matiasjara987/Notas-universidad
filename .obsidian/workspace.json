@@ -18,7 +18,47 @@
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 2 Problema Tipo Prueba"
+              "title": "Clase 2 Por que lo hacemos"
+            }
+          },
+          {
+            "id": "bace746fd7a2c214",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Optimización de sistemas/src/Pasted image 20250327235926.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250327235926"
+            }
+          },
+          {
+            "id": "a04f0296cd73e4a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimización de sistemas/Clase 1 Caso Práctico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clase 1 Caso Práctico"
+            }
+          },
+          {
+            "id": "e636fe1526bf6a6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matias-Matias/Minería de datos/Clase 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clase 1"
             }
           }
         ]
@@ -44,7 +84,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -170,17 +210,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "3d299da55712213f",
   "lastOpenFiles": [
+
     "Matias-Matias/Optimización de sistemas/Documents",
     "Matias-Matias/Optimización de sistemas/Documents/Desarrollo-clase2-ejercicio-TipoPrueba.pdf",
     "Matias-Matias/Minería de datos/Clase 2.md",
@@ -204,7 +245,6 @@
     "Matias-Matias/Optimización de sistemas/Clase 1.md",
     "Notas-Nicolas/Minería de Datos/Minería de Datos Primera Clase.md",
     "Matias-Matias/Minería de datos/src",
-    "Matias-Matias/Ciberseguridad/Clase 1.md",
     "Notas-Nicolas/Ciberseguridad/Ciberseguridad Primera clase.md",
     "Matias-Matias",
     "Nueva carpeta",
