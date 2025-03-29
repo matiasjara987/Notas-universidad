@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matias-Matias/Minería de datos/Clase 2.md",
+                "file": "Matias-Matias/Optimización de sistemas/Clase 2 Problema Tipo Prueba.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 2"
+              "title": "Clase 2 Problema Tipo Prueba"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preparación y evaluación de Proyectos.md",
+                "file": "Matias-Matias/Optimización de sistemas/Clase 2 Problema Tipo Prueba.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Preparación y evaluación de Proyectos"
+              "title": "Outline of Clase 2 Problema Tipo Prueba"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -179,26 +179,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ced45f2ed96dd1e4",
+  "active": "3d299da55712213f",
   "lastOpenFiles": [
-    "Link-google-colab.md",
+    "Matias-Matias/Optimización de sistemas/Documents",
+    "Matias-Matias/Optimización de sistemas/Documents/Desarrollo-clase2-ejercicio-TipoPrueba.pdf",
     "Matias-Matias/Minería de datos/Clase 2.md",
+    "Matias-Matias/Minería de datos/Clase 2 Caso Práctico.md",
+    "Matias-Matias/Minería de datos/1 Evaluaciones.md",
+    "Matias-Matias/Optimización de sistemas/Clase 2 Problema Tipo Prueba.md",
+    "Matias-Matias/Optimización de sistemas/Clase 2.md",
+    "Matias-Matias/Minería de datos/src/Pasted image 20250329110703.png",
+    "Matias-Matias/Minería de datos/src/Pasted image 20250329101948.png",
+    "Matias-Matias/Minería de datos/src/Pasted image 20250329102311.png",
+    "Matias-Matias/Minería de datos/src/Pasted image 20250329102601.png",
+    "Matias-Matias/Minería de datos/src/Pasted image 20250329102213.png",
+    "Matias-Matias/Minería de datos/src/Pasted image 20250329102011.png",
+    "Matias-Matias/Minería de datos/src/Pasted image 20250329101954.png",
+    "Link-google-colab.md",
     "Matias-Matias/Minería de datos/Clase 1.md",
     "Notas-Nicolas/Screenshot 2025-03-21 at 16.28.59.png",
     "Matias-Matias/Minería de datos/src/Pasted image 20250328004447.png",
     "Matias-Matias/Minería de datos/src/Cross-industry-standard-img.png",
-    "Matias-Matias/Optimización de sistemas/src/Pasted image 20250328140854.png",
-    "Matias-Matias/Optimización de sistemas/src/Pasted image 20250328140648.png",
-    "Matias-Matias/Optimización de sistemas/Clase 2 Problema Tipo Prueba.md",
-    "Matias-Matias/Optimización de sistemas/src/Pasted image 20250328140517.png",
     "Matias-Matias/Ciberseguridad/Clase 2.md",
-    "Matias-Matias/Optimización de sistemas/src/Pasted image 20250328140336.png",
-    "Matias-Matias/Optimización de sistemas/Clase 2.md",
     "Matias-Matias/Optimización de sistemas/Clase 1.md",
     "Notas-Nicolas/Minería de Datos/Minería de Datos Primera Clase.md",
-    "Notas-Nicolas/Recursos/Screenshot 2025-03-21 at 14.30.58.png",
-    "Notas-Nicolas/Recursos/Screenshot 2025-03-21 at 13.45.37.png",
-    "Notas-Nicolas/Screenshot 2025-03-21 at 16.20.28.png",
     "Matias-Matias/Minería de datos/src",
     "Matias-Matias/Ciberseguridad/Clase 1.md",
     "Notas-Nicolas/Ciberseguridad/Ciberseguridad Primera clase.md",
@@ -216,15 +220,12 @@
     "Ciberseguridad/Clase 1.md",
     "Optimización de sistemas/Clase 1.md",
     "Optimización de sistemas/Clase 1 Caso Práctico.md",
-    "Optimización de sistemas/src",
     "Preparación y evaluación de proyectos/CLASE 2.md",
     "Preparación y evaluación de proyectos/CLASE 1.md",
     "Prepaparación y evaluación de proyectos/CLASE 2.md",
     "Prepaparación y evaluación de proyectos/CLASE 1.md",
     "Prepaparación y evualuación de proyectos/CLASE 2.md",
     "Prepaparación y evualuación de proyectos/CLASE 1.md",
-    "CLASE 2.md",
-    "CLASE 1.md",
-    "Preaparación y evualuación de proyectos/CLASE 2.md"
+    "CLASE 2.md"
   ]
 }

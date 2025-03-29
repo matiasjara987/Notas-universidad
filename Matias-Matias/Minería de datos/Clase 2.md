@@ -51,8 +51,8 @@ Objetivo: Comprender claramente cuál es el problema que se necesita resolver.
 ***Tenemos sensores de terremoto por todo Chile, queremos tener un sistema que sea capaz de detectar la posición y origen de un terremoto en base a la información requerida***
 
 ----------------------
-## Comprensión de los Datos (Data Undestanding)
-**Objetivo**: Conocer a fondo los datos disponibles.
+## Comprensión de los Datos (Data Understanding)
+**Objetivo**: Conocer a fondo los datos disponibles. #Data-Understanding
 - Se recolectan los datos disponibles. 
 - Se analiza la calidad, el formato, la distribución, los valores faltantes, y se detectan errores.
 - Se hacen las primeras visualizaciones y análisis exploratorios. 
@@ -69,3 +69,44 @@ Este paso ayuda a saber si los datos que tenemos realmente sirven para resolver 
 1 Estación -> N sensores. => Donde los sensores pueden medir => Temperatura, Presión, Terremotos.
 1 Estación -> Posee  =< 1 conjunto de sensores que miden Norte, Este y Altura.
 
+[Sensor 1](https://ds.iris.edu/mda/C/) 
+[Sensor 2 ](https://ds.iris.edu/mda/C1/)
+[sensor 3](https://ds.iris.edu/mda/CX/)
+
+Nos dimos cuenta que no todos los sensores están funcionando, y que algunos lo hacían a intervalos irregulares.
+
+## Preparación de los Datos (Data preparation)
+
+**Objetivo**: dejar los datos listos para modelar. #Data-preparation
+- Selección de atributos relevantes.
+- Correción de errores, tratamiento de valores nulos, codificación de vaiables categóricas.
+- Combinación de fuentes de datos distintas **Si es necesario**. 
+- **Escalado, normalización y limpieza**.
+
+En esta etapa se realiza el proceso conocido como **ETL**  (Extracción, Transformación y Carga).
+#### ¿Qué es ETL y como se relaciona con CRISP- DM? 
+#ETL
+ETL es un proceso que forma parte de la preparación de los datos:
+- **Extracción**: Obtención de datos desde múltiples fuentes (archivos CSV, bases de datos, APIs, hojas de cálculo).
+- **Transformación**: Limpieza, integración, normalización, creación de nuevas variables, codificación, etc.
+- **Carga**: Almacenamiento del dataset en una base estructurada a archivo listo para ser usado en modelado.
+
+----
+## Despliegue (Deployment)
+Objetivo: poner los resultados en uso.
+- Puede ser desde un informe con visualizaciones, hasta la integración en un sistema automático.
+- En contextos más simples, basta con una recomendación basada en el modelo.
+- En organizaciones más complejas, puede significar que el modelo se conecte a sistemas que toman decisiones en tiempo real.
+- Es importante que el resultado sea comprensible para quienes lo van a usar, por lo tanto aquí entra en juego el Business Intelligence.
+
+**¿Qué es Business Intelligence (BI)?** 
+Business Intelligence se refiere al conjunto de estrategias y herramientas que permiten transformar datos en información útil para la toma de decisiones.
+- Usa herramientas como Power BI, Tableau, Looker o Google Data Studio.
+- Se basa en reportes, dashboards, KPIs y visualizaciones.
+- Es descriptivo: ayuda a entender qué está pasando en la organización.
+*BI no reemplaza a la minería de datos. Son complementarios.*
+
+----
+
+## Caso Práctico
+[[Clase 2 Caso Práctico]]

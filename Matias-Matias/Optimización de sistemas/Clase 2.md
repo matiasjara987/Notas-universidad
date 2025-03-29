@@ -27,4 +27,5 @@ Una solución factible es un vértice (FEV) es una solución que se encuentra en
 - Si el problema tiene múltiples soluciones óptima, al menos dos deben ser soluciones FEV.
 SI EL PROBLEMA TIENE UNA SOLUCIÓN ÓPTIMA TIENE UN VERTICE.
 
-Problema Tipo prueba
+
+[[Clase 2 Problema Tipo Prueba]]
