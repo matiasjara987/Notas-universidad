@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "a43cb5834b6f8166",
+    "type": "split",
+    "children": [
+      {
+        "id": "797873ee71ebc357",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01e3116957539571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matias-Matias/Optimización de sistemas/Clase 3 ejercicios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clase 3 ejercicios"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "247f8d188eb876bc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a5afa053ed3ded8d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "e7ef22a3c89df7c3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "eadb4487f27e0963",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "8d631f09e0da5465",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1809f963acb8712a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "391db96a3dc5e3dd",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "9e2c808ad8f7f778",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "2987029baaa99783",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "01e3116957539571",
+  "lastOpenFiles": [
+    "Matias-Matias/Optimización de sistemas/Clase 2 Problema Tipo Prueba.md",
+    "Matias-Matias/Optimización de sistemas/Clase 1 Caso Práctico.md",
+    "Matias-Matias/Preparación y evaluación de proyectos/CLASE 3.md",
+    "Matias-Matias/Optimización de sistemas/Clase 3 ejercicios.md",
+    "Matias-Matias/Optimización de sistemas/Documents/Ejercicio 2 4-4-25_250405_015846.pdf",
+    "Matias-Matias/Optimización de sistemas/Documents/Ejercicio 1 4-4-2025_250408_084615.pdf",
+    "Notas-Nicolas/Recursos/Screenshot 2025-03-28 at 16.56.35.png",
+    "Notas-Nicolas/Recursos/Screenshot 2025-03-28 at 16.56.24.png",
+    "Notas-Nicolas/Recursos/Screenshot 2025-03-28 at 16.56.12.png",
+    "Notas-Nicolas/Recursos/Screenshot 2025-03-28 at 16.56.00.png",
+    "Notas-Nicolas/Recursos/Screenshot 2025-03-28 at 16.55.44.png",
+    "Notas-Nicolas/Recursos/Screenshot 2025-03-21 at 16.28.59.png",
+    "Notas-Nicolas/Recursos/Screenshot 2025-03-21 at 16.20.28.png",
+    "Notas-Nicolas/Recursos/Screenshot 2025-03-21 at 14.48.46.png",
+    "Notas-Nicolas/Recursos/Screenshot 2025-03-21 at 14.31.27.png",
+    "Notas-Nicolas/Recursos/Screenshot 2025-03-21 at 14.30.58.png",
+    "Notas-Nicolas/IMG_0070.heic",
+    "Notas-Nicolas/Preparación y evaluación de proyectos/Clase 3.md",
+    "Matias-Matias/Preparación y evaluación de proyectos/CLASE 2.md"
+  ]
+}
